@@ -1,0 +1,16 @@
+tic;
+PassiveSearch;
+toc;
+fprintf('\n')
+tic;
+DIhotomiaSearch;
+toc;
+fprintf('\n')
+tic;
+GoldenSection;
+toc;
+fprintf('\n')
+tic;
+Fibonacci;
+toc;
+fprintf('\n')
